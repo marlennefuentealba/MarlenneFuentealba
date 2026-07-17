@@ -12,7 +12,7 @@
 - 🍳 Apasionada por el arte culinario (precisión en el código y en la cocina).
 - 🇨🇱 Los Ángeles, Chile.
 
-**Proyectos:** 🥶 [FridgeSync](https://github.com/marlennefuentealba/FridgeSync), 💳 Billetera Virtual, 👟 ShoesTap App, 📝 TodoListApp.
+**Proyectos:** 🥶 [FridgeSync](https://github.com/marlennefuentealba/FridgeSync), 💳 [Billetera Virtual](https://github.com/marlennefuentealba/BilleteraVirtual), 👟 [ShoesTap](https://github.com/marlennefuentealba/ShoesTap), 📝 [TodoListApp](https://github.com/marlennefuentealba/TodoListApp).
 
 ---
 
