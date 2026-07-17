@@ -17,7 +17,7 @@
 ---
 
 ### 📫 Conectemos
-- 💼 **LinkedIn:** [marlenne-fuentealba](https://www.linkedin.com/in/marlenne-fuentealba)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/marlennefuentealba/
 - 📧 **Correo:** [mar2020ely@gmail.com](mailto:mar2020ely@gmail.com)
 
 ---
