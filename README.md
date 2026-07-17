@@ -12,15 +12,16 @@
 - 🍳 Apasionada por el arte culinario (precisión en el código y en la cocina).
 - 🇨🇱 Los Ángeles, Chile.
 
-**Proyectos:** 💳 Billetera Virtual, 👟 ShoesTap App, 📝 TodoListApp.
+**Proyectos:** 🥶 [FridgeSync](https://github.com/marlennefuentealba/FridgeSync), 💳 Billetera Virtual, 👟 ShoesTap App, 📝 TodoListApp.
 
 ---
 
 ### 📫 Conectemos
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/marlennefuentealba/
+- 💼 **LinkedIn:** [Marlenne Fuentealba](https://www.linkedin.com/in/marlennefuentealba/)
 - 📧 **Correo:** [mar2020ely@gmail.com](mailto:mar2020ely@gmail.com)
 
 ---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marlennefuentealba&show_icons=true&theme=dracula&hide_border=true" alt="Mis estadísticas" />
 </p>
